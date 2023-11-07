@@ -1,0 +1,19 @@
+# Ignore database file
+db.sqlite3
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore any compiled Python files or caches
+__pycache__/
+
+# Ignore project-specific settings files
+*.pyc
+
+# Ignore editor/IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system or hidden files
+.DS_Store
+Thumbs.db
